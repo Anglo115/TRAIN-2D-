@@ -1,2 +1,1 @@
-print("Hello World");
-print("jou ar yu")
+print("Hello World")
